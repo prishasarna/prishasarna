@@ -1,6 +1,6 @@
 <div align="center">
 
-# hi, i'm Prisha 👋
+# Hi, i'm Prisha 👋
 
 **Full Stack Developer · CS @ University of Alberta · AWS Certified**
 
